@@ -1,0 +1,71 @@
+
+h1 {
+    font-size: 5.25rem; 
+    color: #227C70;
+    margin-top: 0;
+    line-height: 2em;
+    font-family: 'Patrick Hand', cursive;
+  }
+  .subTitle{
+    color: #227C70;
+    font-size: 1.5em;
+}
+.skill-image{
+    width: 40%;
+    display: inline;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2em;
+}
+  h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #227C70;
+    margin-top: 0;
+    font-family: 'Patrick Hand', cursive;
+  }
+  h3 {
+    color: #E6E2C3;
+    font-size: 2rem;
+    margin-top: 0;
+    font-family: 'Patrick Hand', cursive;
+  }
+  p{
+    color: #E6E2C3;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .absCenter{
+    width: 15%;
+    margin: 0 auto 0 auto;
+  }
+  .middle-container{
+    padding-top: 10px;
+  }
+  body{
+    background-color: #88A47C;
+    text-align: center;
+    margin: 0;
+  }
+  hr{
+    border-style: none;
+  }
+  .leftCloud{
+    position: absolute;
+    left: 24%;
+    bottom: 32%;
+  }
+
+  .rightCloud{
+    position: absolute;
+    right: 24%;
+    top: 16%;
+  }
+  .top{
+    padding-top: 200px;
+    margin: 0;
+    background-color: #1C315E;
+    position: relative;
+  }
